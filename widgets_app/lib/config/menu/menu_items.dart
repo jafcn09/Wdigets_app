@@ -32,7 +32,7 @@ icon: Icons.smart_button_outlined
 (
 title: 'Tarjetas',
 subTitle: 'Contenedores esterilizados',
-link: '/buttons',
+link: '/cards',
 icon: Icons.credit_card
 
 
