@@ -64,7 +64,19 @@ link: '/animated',
 icon: Icons.check_box_outline_blank
 
 
+  ),
+
+    MenuItem
+(
+title: 'CONTROLS UI',
+subTitle: 'controles en flutter',
+link: '/ui-controls',
+icon: Icons.car_rental_outlined
+
+
   )
+
+
 
 
 
