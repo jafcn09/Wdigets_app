@@ -55,7 +55,17 @@ link: '/snackbars',
 icon: Icons.info_outline
 
 
+  ),
+    MenuItem
+(
+title: 'Animated Container',
+subTitle: 'Controlados',
+link: '/animated',
+icon: Icons.check_box_outline_blank
+
+
   )
+
 
 
 
