@@ -46,5 +46,17 @@ icon: Icons.refresh_rounded
 
 
   )
+  ,
+    MenuItem
+(
+title: 'Dialogs && Snackbars',
+subTitle: 'Controlados',
+link: '/snackbars',
+icon: Icons.info_outline
+
+
+  )
+
+
 
 ];
