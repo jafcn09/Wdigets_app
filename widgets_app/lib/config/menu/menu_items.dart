@@ -74,7 +74,27 @@ link: '/ui-controls',
 icon: Icons.car_rental_outlined
 
 
+  ),
+    MenuItem
+(
+title: 'TUTORIALES',
+subTitle: 'Tutorial introductorio',
+link: '/tutorial',
+icon: Icons.accessibility_rounded
+
+
+  ), 
+  
+    MenuItem
+(
+title: 'INFINITE SCROLL',
+subTitle: 'scroll infinito',
+link: '/infinite',
+icon: Icons.list_alt_rounded
+
+
   )
+
 
 
 
